@@ -10,7 +10,7 @@ I'm an AI Engineer with over 13 years of experience leading startups and enterpr
 
 ---
 
-[## A collection of my work with AI Agents is in this repo:](https://github.com/alouisos/awesome-ai-agents)
+[## My repo with a collection of work with AI Agents](https://github.com/alouisos/awesome-ai-agents)
 
 ## Experience
 
