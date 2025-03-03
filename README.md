@@ -10,6 +10,8 @@ I'm an AI Engineer with over 13 years of experience leading startups and enterpr
 
 ---
 
+[## A collection of my work with AI Agents is in this repo:](https://github.com/alouisos/awesome-ai-agents)
+
 ## Experience
 
 ### **Chief AI Engineer at ManXmachina**  
