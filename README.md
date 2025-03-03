@@ -9,7 +9,7 @@
 I'm an AI Engineer with over 13 years of experience leading startups and enterprizes to redefine how AI transforms business operations. My work spans from developing real-time fraud detection systems and healthcare auditing solutions to creating AI-powered recruitment tools and computer vision applications. My unique journey began as a board-certified vascular surgeon—where high-pressure decision-making and impactful solutions were everyday demands—which now fuels my passion for building transparent, ethical AI systems that empower businesses across industries.
 
 ---
-
+## Projects
 [## My repo with a collection of work with AI Agents](https://github.com/alouisos/awesome-ai-agents)
 
 ## Experience
@@ -39,16 +39,6 @@ I'm an AI Engineer with over 13 years of experience leading startups and enterpr
 
 - Board-certified vascular surgeon with extensive experience in high-stakes, high-pressure environments.
 - Developed critical decision-making and prioritization skills, which now drive my approach to solving complex business problems with AI.
-
----
-
-## Projects
-
-- **AI Agent for Job Description Optimization:**  
-  A tool where one AI agent researches company data and job requirements, while another acts as an experienced recruiter to craft optimized, personalized job descriptions.
-
-- **AI Agents for Talent Acquisition:**  
-  A suite of AI tools that streamline candidate scouting, automate personalized outreach, and boost recruitment efficiency—helping recruiters focus on building human connections.
 
 ---
 
