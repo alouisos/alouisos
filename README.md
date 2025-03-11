@@ -1,4 +1,4 @@
-# Hi, I'm Alex Louizos! 👋
+# Hi, I'm Alex Louizos! 🤖🤖🤖
 
 **I am an AI Engineer Passionate About Building Intelligent Business Agents**
 
